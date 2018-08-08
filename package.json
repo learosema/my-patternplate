@@ -1,0 +1,12 @@
+{
+  "name": "my-patternplate",
+  "version": "1.0.0",
+  "author": "Lea Rosema",
+  "license": "MIT",
+  "scripts": {
+    "start": "patternplate start"
+  },
+  "devDependencies": {
+    "@patternplate/cli": "^2.5.21"
+  }
+}

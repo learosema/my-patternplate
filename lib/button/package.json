@@ -1,0 +1,10 @@
+{
+  "name": "button",
+  "version": "1.0.0",
+  "description": "A Button",
+  "patternplate": {
+    "displayName": "Button"
+  },
+  "author": "Lea Rosema",
+  "license": "MIT"
+}
