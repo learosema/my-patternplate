@@ -1,8 +1,9 @@
 {
   "name": "button",
   "version": "1.0.0",
-  "description": "A Button",
   "patternplate": {
+    "description": "A fascinating fancy Button",
+    "flag": "stable",
     "displayName": "Button"
   },
   "author": "Lea Rosema",
